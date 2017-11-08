@@ -12,7 +12,9 @@ h1{
 
 
 /* About Section CSS */
-
+div{
+   text-align: center;
+}
 
 
 /* Portfolio Item CSS */
